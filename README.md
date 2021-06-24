@@ -1,5 +1,7 @@
 # AI-Research
 
+![](https://github.com/yiqiao-yin/SML/blob/main/pics/main2.gif)
+
 This is my AI Project.
 
 ## Data
