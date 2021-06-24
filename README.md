@@ -1,6 +1,6 @@
 # AI-Research
 
-![](https://github.com/yiqiao-yin/SML/blob/main/pics/main2.gif)
+![](https://github.com/MysteriousHo-Oh123/AI-Research-/blob/main/pics/tesla-wallpaper.jpg)
 
 This is my AI Project.
 
