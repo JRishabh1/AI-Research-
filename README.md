@@ -19,6 +19,7 @@ The [longitudnal MRI data](http://www.oasis-brains.org/pdf/oasis_longitudinal.cs
     <ul>51 of the 64 "Demented" subjects had mild to moderate Alzheimer's disease</ul>
   </ul>
   <ul>14 subjects were characterized as "Nondemented" in their initial visits and were classified as "Demented" later on. These subjects were grouped as "Converted"</ul>
+</li>
   
   
   
