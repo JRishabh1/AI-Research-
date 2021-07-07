@@ -1,6 +1,6 @@
 # AI-Research on Alzheimer's Disease
 
-![](https://github.com/MysteriousHo-Oh123/AI-Research-/blob/main/pics/tesla-wallpaper.jpg)
+![Alzheimer's image](https://www.nia.nih.gov/sites/default/files/2017-09/alzheimers-animation-hero.jpg)
 
 This is a research project on creating a high-accuracy, image classification algorithm for Alzheimer's Disease. 
 
@@ -19,7 +19,7 @@ The [longitudnal MRI data](http://www.oasis-brains.org/pdf/oasis_longitudinal.cs
 * 14 subjects were characterized as "Nondemented" in their initial visits and were classified as "Demented" later on. These subjects were grouped as "Converted"
 </li>
   
-  
+
   
 
 ## Benchmark
