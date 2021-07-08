@@ -18,9 +18,7 @@ The [longitudinal MRI data](http://www.oasis-brains.org/pdf/oasis_longitudinal.c
   * 51 of the 64 "Demented" subjects had mild to moderate Alzheimer's disease
 * 14 subjects were characterized as "Nondemented" in their initial visits and were classified as "Demented" later on. These subjects were grouped as "Converted"
 </li>
-  
-
-  
+ 
 
 ## Benchmark
 
@@ -30,7 +28,7 @@ For example, I am interested in image data. There is a previous scholar worked o
 
 ## Proposed Model/Algorithm
 
-This project uses a Convolutional Neural Network (CNN). 
+This project uses classifier models like Random Decision  Forest. 
 
 ## Application
 
