@@ -30,10 +30,6 @@ For example, I am interested in image data. There is a previous scholar worked o
 
 ## Proposed Model/Algorithm
 
-Examples of Proposed Model or Algorithm can be the following:
-- Model: mathematical (there is derivation, more of a math paper)
-- Algorithm: list of rules (that we can apply a data set, more of a computer science paper)
-
 This project uses a Convolutional Neural Network (CNN). 
 
 ## Application
