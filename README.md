@@ -2,7 +2,7 @@
 
 ![Alzheimer's image](https://www.nia.nih.gov/sites/default/files/2017-09/alzheimers-animation-hero.jpg)
 
-This is a research project on creating a high-accuracy, image classification algorithm for Alzheimer's Disease. 
+This is a research project on creating a high-accuracy classification algorithm for Alzheimer's Disease. 
 
 ## Data
 
