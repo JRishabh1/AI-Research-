@@ -22,18 +22,12 @@ The [longitudinal MRI data](http://www.oasis-brains.org/pdf/oasis_longitudinal.c
 
 ## Benchmark
 
-This is some benchmark model that is experimented by previous scholar. Some may also refer this section as literature review. 
-
-For example, I am interested in image data. There is a previous scholar worked on this particular image data. They used model ABC and the performance is 80%. 
+The benchmark I am interested in is 70% for the three class classifier and 80% for the two class classifier. 
 
 ## Proposed Model/Algorithm
 
-This project uses classifier models like Random Decision  Forest. 
+This project uses classifier models like Random Decision Tree, Logistic Regression (OVR for multiclass) and MLP Classifier  
 
 ## Application
 
-This section explains the procedure of adopting the proposed method onto your data set. We show by empirical results the proposed method is better. 
-
-Remark: what do you mean by better? => This is referring to risk/loss functions (the difference between reality and the educated guess from your AI).
-
-Based on your risk functions, you can present the performance of your proposed model/algorithm versus benchmark.
+The proposed methods are useful as they can be extended to a variety of diseases and can be easily implemented and have the hyperparameters easily tuned for better prediction.
